@@ -1,5 +1,20 @@
 # Changelog
 
+## [26.118.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.117.1...v26.118.0) (2026-10-06)
+
+
+### Features
+
+* **add:** TS0003_QS-Zigbee-S10-3C ([#13394](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13394)) ([789ab4d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/789ab4dcf068587b7cad46efab87d408a62e09f7))
+* Namron 4512768, 4512791 and 4512792: support firmware updates ([#13417](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13417)) ([30c3e79](https://github.com/Koenkk/zigbee-herdsman-converters/commit/30c3e790b863c5167cd0b6123d3cef3ff0d6cea0))
+
+
+### Bug Fixes
+
+* Namron Zigbee Edge thermostat (4566702 / 4566703 / 4512783 / 4512784, HZC T11_ZG): various improvements ([#13386](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13386)) ([0ed5bc2](https://github.com/Koenkk/zigbee-herdsman-converters/commit/0ed5bc290801f8fe5e531ecc35f4c9f0653c2d27))
+* Sercomm XHS2-SE and Universal Electronics Inc XHS2-UE: set long poll intervals to reduce battery drain ([#13379](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13379)) ([520f8a4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/520f8a48cb87ce74790b9df0429427fa8afe906a))
+* SONOFF S60ZBTPF: stop repeated power updates when power is unchanged ([#13416](https://github.com/Koenkk/zigbee-herdsman-converters/issues/13416)) ([8a97a05](https://github.com/Koenkk/zigbee-herdsman-converters/commit/8a97a0547202dba123262ef9872ab47e1dde20bf))
+
 ## [26.117.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.117.0...v26.117.1) (2026-10-06)
 
 
